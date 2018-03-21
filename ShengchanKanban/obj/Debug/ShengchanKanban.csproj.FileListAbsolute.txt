@@ -1,0 +1,45 @@
+c:\users\sunkb.chenzhu\documents\visual studio 2012\Projects\ShengchanKanban\ShengchanKanban\bin\Debug\ShengchanKanban.exe.config
+c:\users\sunkb.chenzhu\documents\visual studio 2012\Projects\ShengchanKanban\ShengchanKanban\bin\Debug\ShengchanKanban.exe
+c:\users\sunkb.chenzhu\documents\visual studio 2012\Projects\ShengchanKanban\ShengchanKanban\bin\Debug\ShengchanKanban.pdb
+c:\users\sunkb.chenzhu\documents\visual studio 2012\Projects\ShengchanKanban\ShengchanKanban\obj\Debug\ShengchanKanban.csprojResolveAssemblyReference.cache
+c:\users\sunkb.chenzhu\documents\visual studio 2012\Projects\ShengchanKanban\ShengchanKanban\obj\Debug\ShengchanKanban.Form1.resources
+c:\users\sunkb.chenzhu\documents\visual studio 2012\Projects\ShengchanKanban\ShengchanKanban\obj\Debug\ShengchanKanban.Properties.Resources.resources
+c:\users\sunkb.chenzhu\documents\visual studio 2012\Projects\ShengchanKanban\ShengchanKanban\obj\Debug\ShengchanKanban.csproj.GenerateResource.Cache
+c:\users\sunkb.chenzhu\documents\visual studio 2012\Projects\ShengchanKanban\ShengchanKanban\obj\Debug\ShengchanKanban.exe
+c:\users\sunkb.chenzhu\documents\visual studio 2012\Projects\ShengchanKanban\ShengchanKanban\obj\Debug\ShengchanKanban.pdb
+D:\kanban\ShengchanKanban\bin\Debug\ShengchanKanban.exe.config
+D:\kanban\ShengchanKanban\obj\Debug\ShengchanKanban.exe
+D:\kanban\ShengchanKanban\obj\Debug\ShengchanKanban.pdb
+D:\kanban\ShengchanKanban\bin\Debug\ShengchanKanban.exe
+D:\kanban\ShengchanKanban\bin\Debug\ShengchanKanban.pdb
+D:\kanban\ShengchanKanban\obj\Debug\ShengchanKanban.csprojResolveAssemblyReference.cache
+D:\kanban\ShengchanKanban\obj\Debug\ShengchanKanban.Form1.resources
+D:\kanban\ShengchanKanban\obj\Debug\ShengchanKanban.Properties.Resources.resources
+D:\kanban\ShengchanKanban\obj\Debug\ShengchanKanban.csproj.GenerateResource.Cache
+D:\kanban - 副本\ShengchanKanban\bin\Debug\ShengchanKanban.exe.config
+D:\kanban - 副本\ShengchanKanban\obj\Debug\ShengchanKanban.exe
+D:\kanban - 副本\ShengchanKanban\obj\Debug\ShengchanKanban.pdb
+D:\kanban - 副本\ShengchanKanban\bin\Debug\ShengchanKanban.exe
+D:\kanban - 副本\ShengchanKanban\bin\Debug\ShengchanKanban.pdb
+D:\kanban - 副本\ShengchanKanban\obj\Debug\ShengchanKanban.csprojResolveAssemblyReference.cache
+D:\kanban - 副本\ShengchanKanban\obj\Debug\ShengchanKanban.Form1.resources
+D:\kanban - 副本\ShengchanKanban\obj\Debug\ShengchanKanban.Properties.Resources.resources
+D:\kanban - 副本\ShengchanKanban\obj\Debug\ShengchanKanban.csproj.GenerateResource.Cache
+D:\kanban - 副本 - 副本\ShengchanKanban\bin\Debug\ShengchanKanban.exe.config
+D:\kanban - 副本 - 副本\ShengchanKanban\obj\Debug\ShengchanKanban.exe
+D:\kanban - 副本 - 副本\ShengchanKanban\obj\Debug\ShengchanKanban.pdb
+D:\kanban - 副本 - 副本\ShengchanKanban\bin\Debug\ShengchanKanban.exe
+D:\kanban - 副本 - 副本\ShengchanKanban\bin\Debug\ShengchanKanban.pdb
+D:\kanban - 副本 - 副本\ShengchanKanban\obj\Debug\ShengchanKanban.csprojResolveAssemblyReference.cache
+D:\kanban - 副本 - 副本\ShengchanKanban\obj\Debug\ShengchanKanban.Form1.resources
+D:\kanban - 副本 - 副本\ShengchanKanban\obj\Debug\ShengchanKanban.Properties.Resources.resources
+D:\kanban - 副本 - 副本\ShengchanKanban\obj\Debug\ShengchanKanban.csproj.GenerateResource.Cache
+D:\看板\ShengchanKanban\bin\Debug\ShengchanKanban.exe.config
+D:\看板\ShengchanKanban\obj\Debug\ShengchanKanban.exe
+D:\看板\ShengchanKanban\obj\Debug\ShengchanKanban.pdb
+D:\看板\ShengchanKanban\bin\Debug\ShengchanKanban.exe
+D:\看板\ShengchanKanban\bin\Debug\ShengchanKanban.pdb
+D:\看板\ShengchanKanban\obj\Debug\ShengchanKanban.csprojResolveAssemblyReference.cache
+D:\看板\ShengchanKanban\obj\Debug\ShengchanKanban.Form1.resources
+D:\看板\ShengchanKanban\obj\Debug\ShengchanKanban.Properties.Resources.resources
+D:\看板\ShengchanKanban\obj\Debug\ShengchanKanban.csproj.GenerateResource.Cache

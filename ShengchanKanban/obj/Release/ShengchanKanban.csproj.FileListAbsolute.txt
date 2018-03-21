@@ -1,0 +1,15 @@
+D:\看板\ShengchanKanban\bin\Release\ShengchanKanban.exe.config
+D:\看板\ShengchanKanban\bin\Release\ShengchanKanban.exe
+D:\看板\ShengchanKanban\bin\Release\ShengchanKanban.pdb
+D:\看板\ShengchanKanban\obj\Release\ShengchanKanban.csprojResolveAssemblyReference.cache
+D:\看板\ShengchanKanban\obj\Release\ShengchanKanban.Form1.resources
+D:\看板\ShengchanKanban\obj\Release\ShengchanKanban.Properties.Resources.resources
+D:\看板\ShengchanKanban\obj\Release\ShengchanKanban.csproj.GenerateResource.Cache
+D:\看板\ShengchanKanban\obj\Release\ShengchanKanban.exe
+D:\看板\ShengchanKanban\obj\Release\ShengchanKanban.pdb
+D:\我的程序\看板\ShengchanKanban\bin\Release\ShengchanKanban.exe.config
+D:\我的程序\看板\ShengchanKanban\obj\Release\ShengchanKanban.exe
+D:\我的程序\看板\ShengchanKanban\obj\Release\ShengchanKanban.pdb
+D:\代码\看板\ShengchanKanban\bin\Release\ShengchanKanban.exe.config
+D:\代码\看板\ShengchanKanban\obj\Release\ShengchanKanban.exe
+D:\代码\看板\ShengchanKanban\obj\Release\ShengchanKanban.pdb
